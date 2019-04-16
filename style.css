@@ -1,0 +1,12 @@
+h1, h2 {
+  font-family: Lato;
+}
+
+table {
+  border: none;
+}
+
+ th {
+    text-align: left;
+    margin-right: 1rem;
+  }
